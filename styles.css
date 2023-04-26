@@ -1,0 +1,122 @@
+.fondo  {
+  background-color: aqua;  
+  width: 1000px;
+  height: 800px;
+  margin: 100px auto;
+  position: relative;
+  z-index: 0;
+ 
+}
+
+
+.fondo .cara {
+  position: absolute;
+  top: 32%;
+  right: 35%;
+  z-index:2 ;
+}
+ 
+.fondo  .oreja1  {
+  position: absolute;
+  top: 35%;
+  right: 31%; 
+}
+
+.fondo  .oreja2  {
+  position: absolute;
+  top: 35%;
+  right: 58%; 
+}
+
+.fondo  .sombrero  {
+  position:absolute ;
+  top: 20%;
+  right: 38%;
+  z-index: 3; 
+  
+}
+
+.fondo  .sombrero:hover  {
+  position:absolute ;
+  top: 10%;
+  right: 38%;
+  z-index: 3; 
+  
+}
+
+
+.fondo  .ojo1  {
+  position: absolute;
+  top: 37%;
+  right: 42%; 
+  z-index: 3;
+}
+.fondo  .ojo2  {
+  position: absolute;
+  top: 37%;
+  right: 50%; 
+  z-index: 3;
+}
+
+.fondo  .ojo2  {
+  position: absolute;
+  top: 37%;
+  right: 50%; 
+  z-index: 3;
+}
+.fondo  .ojo2  {
+  position: absolute;
+  top: 37%;
+  right: 50%; 
+  z-index: 3;
+  tr
+}
+
+
+.fondo  .nariz {
+  position: absolute;
+  top: 45%;
+  right:; 
+  left: 43%;
+  z-index: 3;
+}
+
+.fondo  .bigote {
+  position: absolute;
+   bottom: 30%;
+  right:; 
+  left: 40%;
+  z-index: 3;
+}
+
+
+.fondo  .bigote:hover {
+  position: absolute;
+   bottom: 28%;
+  right:; 
+  left: 40%;
+  z-index: 3;
+}
+
+.fondo  .bigote {
+  position: absolute;
+   bottom: 30%;
+  right:; 
+  left: 40%;
+  z-index: 3;
+}
+
+.fondo  .pie1 {
+  position: absolute;
+   bottom: 16%;
+  right:; 
+  left: 34%;
+  z-index:1 ;
+}
+
+.fondo  .pie2 {
+  position: absolute;
+   bottom: 16%;
+  left: 50%;
+  z-index:1 ;
+}
